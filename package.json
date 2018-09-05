@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "官网",
+  "main": "index.html",
+  "scripts": {
+    "watch": "gulp watch",
+    "prod": "gulp build"
+  },
+  "author": "dazuo",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "del": "^3.0.0",
+    "fullpage": "^1.4.2",
+    "fullpage.js": "^3.0.1",
+    "gsap": "^1.20.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-webpack": "^1.5.0",
+    "in-view": "^0.6.1",
+    "jquery": "^3.3.1",
+    "run-sequence": "^2.2.1"
+  }
+}
